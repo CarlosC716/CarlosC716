@@ -22,7 +22,7 @@ Soy un desarrollador de software enfocado en construir aplicaciones robustas, es
 
 ### 🔗 [Acortador de URL](https://github.com/CarlosC716/Acortador_URL.git)
 **Backend | Java, Spring Boot, MySQL, Docker**
-Un acortador de URLs de nivel profesional diseñado bajo buenas prácticas arquitectónicas y optimización de recursos.
+Un acortador de URLs diseñado bajo buenas prácticas arquitectónicas y optimización de recursos.
 * **Características:** Arquitectura limpia utilizando DTOs y MapStruct para el aislamiento de datos.
 * **Rendimiento:** Control de concurrencia atómica en base de datos para contadores de acceso masivos.
 * **HTTP Nativo:** Redirecciones HTTP `302 Found` automáticas y manejo estricto de caducidad con estados `410 Gone`.
